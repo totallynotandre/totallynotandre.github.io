@@ -18,7 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-minimal_mistakes_skin    : "dark"
 
 title: Andre's Portfolio
 email: andre.roshawn2002@yahoo.com
@@ -35,6 +34,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+
+minimal_mistakes_skin    : "dark"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
