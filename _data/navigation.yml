@@ -1,6 +1,6 @@
 main:
   - title: "Projects"
-    url: /_pages/home.md
+    url: /
   - title: "Posts"
     url: https://twitch.tv
   - title: "Image Gallery"

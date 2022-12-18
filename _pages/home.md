@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: single
-permalink: //
+permalink: /
 
 header:
   overlay_color: "#000"
