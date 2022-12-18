@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+minimal_mistakes_skin    : "dark"
+
 title: Andre's Portfolio
 email: andre.roshawn2002@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
