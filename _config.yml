@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  totallynotandre
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
