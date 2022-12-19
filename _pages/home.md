@@ -1,6 +1,6 @@
 ---
 
-layout: splash
+layout: splash  
 permalink: /
 
 header:
@@ -13,6 +13,6 @@ excerpt: >
 
 ---
 
-## hello
+
 
 I don't know what to do here
