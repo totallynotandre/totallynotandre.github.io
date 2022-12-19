@@ -13,9 +13,9 @@ tagline: "Andre Smith"
 excerpt: >
   please oh god work. <br />
 
-## Hi
+
 ---
 
-## hello
+
 
 I don't know what to do here
