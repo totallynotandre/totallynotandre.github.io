@@ -1,6 +1,6 @@
 main:
   - title: "Projects"
-    url: /
+    url: /projects/
   - title: "Posts"
     url: https://twitch.tv
   - title: "Image Gallery"
