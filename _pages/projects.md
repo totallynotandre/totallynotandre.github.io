@@ -4,8 +4,8 @@ layout: splash
 permalink: /projects/
 title: "Projects"
 header:
-  overlay_image: /assets/face.png
-  overlay_filter: "0.5"
+  overlay_image: /assets/face2.jpg
+  
   
 
 excerpt: >
