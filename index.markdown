@@ -1,7 +1,7 @@
 ---
 
 layout: splash
-permalink: /projects/
+permalink: /
 
 header:
   overlay_color: "#000"
@@ -11,7 +11,7 @@ header:
 tagline: "Andre Smith"
 
 excerpt: >
-  please oh god work. <br />
+  index markdown. <br />
 
 
 ---

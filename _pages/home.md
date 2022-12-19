@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/face.png
 
 excerpt: >
-  please oh god work. <br />
+  home md <br />
 
 ---
 
