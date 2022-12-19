@@ -1,6 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: single
+layout: splash
+permalink: /projects/
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/face.png
+
+tagline: "Andre Smith"
+
+excerpt: >
+  please oh god work. <br />
+
 ---
+
+## hello
+
+I don't know what to do here
