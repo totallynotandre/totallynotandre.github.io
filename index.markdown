@@ -4,18 +4,19 @@ layout: splash
 permalink: /
 title: "Andre's Personal Portfolio"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/face.png
+
+  overlay_image: /assets/EVO.jpg
 
 
 
 excerpt: >
-  index markdown. <br />
+  Informatics student currently attending UC Irvine. <br />
 
 
 ---
 
+## About Me
 
+Insert summary
 
-I don't know what to do here
+## Probably insert images somehwere around here
