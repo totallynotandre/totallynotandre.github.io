@@ -4,12 +4,12 @@ layout: splash
 permalink: /projects/
 title: "Projects"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: /assets/face.png
+  overlay_filter: "0.5"
+  
 
 excerpt: >
-  please oh god work. <br />
+  Experiences from my coding courses from UCI. <br />
 
 ---
 
