@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 title: "Andre's Personal Portfolio"
 header:
-  overlay_image: /assets/pancake.jpg
+  overlay_image: /assets/EVO2.jpg
 
 
 
