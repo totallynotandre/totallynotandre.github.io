@@ -12,7 +12,7 @@ excerpt: >
   Experiences from my coding courses from UCI. <br />
 
 ---
-##Animation in Python
+## Animation in Python
 {% include video id="7e16-8DLrlI" provider="youtube" %}
 
 This project had me create a simulation within python that had objects all with different behaviors. This is project that heavily incorporated inheritance as some objects are similar due to them potentially being dependencies or parent object. There are objects I can choose from at the start, and if I were to click anywhere on the screen, the object will spawn and move in a random direction granted they can move. The window can also be adjusted to whatever size and the objects will still be contained and bounce off them.
