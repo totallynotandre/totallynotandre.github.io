@@ -25,4 +25,4 @@ Each black ball is a form of a hunter. They will destroy either blue or red ball
 
 * The first black ball will stay stationary until forcibly removed by the user.
 * The second black ball will also stay stationary but will remove itself if it hasn't consumed a prey in a certain amount of iterations.
-* The Third and final black ball will actively move towards blue or red balls. If no consumable objects are available, they will move in a straight line until it remove itself due to "hunger". 
+* The third and final black ball will actively move towards blue or red balls. If no consumable objects are available, they will move in a straight line until it remove itself due to "hunger". 
