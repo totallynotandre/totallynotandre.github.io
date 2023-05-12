@@ -41,6 +41,8 @@ logo: "/assets/zhiquong.png"
 include: 
   - _pages
 
+atom_feed:
+  hide: true
 
 defaults:
   # _pages
