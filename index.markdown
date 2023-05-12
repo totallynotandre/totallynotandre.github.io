@@ -8,13 +8,7 @@ header:
 
 
 
-author:
-  name: "Andre Smith"
-  avatar: "/assets/me.jpg"
-  links:
-  - label: "Instagram"
-    icon: "fab fa-fw fa-instagram"
-    url: "https://www.instagram.com/imtotallynotandre/"
+author_profile: true
 excerpt: >
   Informatics student currently attending UC Irvine. <br />
 
