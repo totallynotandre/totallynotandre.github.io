@@ -44,6 +44,14 @@ include:
 atom_feed:
   hide: true
 
+author:
+  name: "Andre Smith"
+  avatar: "/assets/me.jpg"
+  links:
+  - label: "Instagram"
+    icon: "fab fa-fw fa-instagram"
+    url: "https://www.instagram.com/imtotallynotandre/"
+
 defaults:
   # _pages
   - scope:
@@ -52,13 +60,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-author:
-  name: "Andre Smith"
-  avatar: "/assets/me.jpg"
-  links:
-  - label: "Instagram"
-    icon: "fab fa-fw fa-instagram"
-    url: "https://www.instagram.com/imtotallynotandre/"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

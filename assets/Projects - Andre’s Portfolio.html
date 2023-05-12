@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)https://totallynotandre.github.io/projects/ -->
+<html lang="en" class=" js "><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
+<!-- begin _includes/seo.html --><title>Projects - Andre’s Portfolio</title>
+<meta name="description" content="Experiences from my coding courses from UCI.">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Andre&#39;s Portfolio">
+<meta property="og:title" content="Projects">
+<meta property="og:url" content="/projects/">
+
+
+  <meta property="og:description" content="Experiences from my coding courses from UCI.">
+
+
+
+  <meta property="og:image" content="/assets/face2.jpg">
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="https://totallynotandre.github.io/projects/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="https://totallynotandre.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Andre&#39;s Portfolio Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="./Projects - Andre’s Portfolio_files/main.css">
+<link rel="stylesheet" href="./Projects - Andre’s Portfolio_files/all.min.css" as="style" onload="this.onload=null;this.rel=&#39;stylesheet&#39;">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <link rel="apple-touch-icon" sizes="72x72" href="https://totallynotandre.github.io/assets/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://totallynotandre.github.io/assets/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://totallynotandre.github.io/assets/favicons/favicon-16x16.png">
+<link rel="manifest" href="https://totallynotandre.github.io/assets/favicons/site.webmanifest">
+<link rel="mask-icon" href="https://totallynotandre.github.io/assets/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+  <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><style>.rdp {
+  --rdp-cell-size: 40px;
+  --rdp-accent-color: #0000ff;
+  --rdp-background-color: #e7edff;
+  --rdp-accent-color-dark: #3003e1;
+  --rdp-background-color-dark: #180270;
+  --rdp-outline: 2px solid var(--rdp-accent-color); /* Outline border for focused elements */
+  --rdp-outline-selected: 2px solid rgba(0, 0, 0, 0.75); /* Outline border for focused _and_ selected elements */
+
+  margin: 1em;
+}
+
+/* Hide elements for devices that are not screen readers */
+.rdp-vhidden {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background: transparent;
+  border: 0;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  position: absolute !important;
+  top: 0;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  border: 0 !important;
+}
+
+/* Buttons */
+.rdp-button_reset {
+  appearance: none;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  cursor: default;
+  color: inherit;
+  outline: none;
+  background: none;
+  font: inherit;
+
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}
+
+.rdp-button {
+  border: 2px solid transparent;
+}
+
+.rdp-button[disabled] {
+  opacity: 0.25;
+}
+
+.rdp-button:not([disabled]) {
+  cursor: pointer;
+}
+
+.rdp-button:focus:not([disabled]),
+.rdp-button:active:not([disabled]) {
+  color: inherit;
+  border: var(--rdp-outline);
+  background-color: var(--rdp-background-color);
+}
+
+.rdp-button:hover:not([disabled]) {
+  background-color: var(--rdp-background-color);
+}
+
+.rdp-months {
+  display: flex;
+}
+
+.rdp-month {
+  margin: 0 1em;
+}
+
+.rdp-month:first-child {
+  margin-left: 0;
+}
+
+.rdp-month:last-child {
+  margin-right: 0;
+}
+
+.rdp-table {
+  margin: 0;
+  max-width: calc(var(--rdp-cell-size) * 7);
+  border-collapse: collapse;
+}
+
+.rdp-with_weeknumber .rdp-table {
+  max-width: calc(var(--rdp-cell-size) * 8);
+  border-collapse: collapse;
+}
+
+.rdp-caption {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+  text-align: left;
+}
+
+.rdp-multiple_months .rdp-caption {
+  position: relative;
+  display: block;
+  text-align: center;
+}
+
+.rdp-caption_dropdowns {
+  position: relative;
+  display: inline-flex;
+}
+
+.rdp-caption_label {
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+  padding: 0 0.25em;
+  white-space: nowrap;
+  color: currentColor;
+  border: 0;
+  border: 2px solid transparent;
+  font-family: inherit;
+  font-size: 140%;
+  font-weight: bold;
+}
+
+.rdp-nav {
+  white-space: nowrap;
+}
+
+.rdp-multiple_months .rdp-caption_start .rdp-nav {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+.rdp-multiple_months .rdp-caption_end .rdp-nav {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+.rdp-nav_button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--rdp-cell-size);
+  height: var(--rdp-cell-size);
+  padding: 0.25em;
+  border-radius: 100%;
+}
+
+/* ---------- */
+/* Dropdowns  */
+/* ---------- */
+
+.rdp-dropdown_year,
+.rdp-dropdown_month {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.rdp-dropdown {
+  appearance: none;
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  cursor: inherit;
+  opacity: 0;
+  border: none;
+  background-color: transparent;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.rdp-dropdown[disabled] {
+  opacity: unset;
+  color: unset;
+}
+
+.rdp-dropdown:focus:not([disabled]) + .rdp-caption_label,
+.rdp-dropdown:active:not([disabled]) + .rdp-caption_label {
+  border: var(--rdp-outline);
+  border-radius: 6px;
+  background-color: var(--rdp-background-color);
+}
+
+.rdp-dropdown_icon {
+  margin: 0 0 0 5px;
+}
+
+.rdp-head {
+  border: 0;
+}
+
+.rdp-head_row,
+.rdp-row {
+  height: 100%;
+}
+
+.rdp-head_cell {
+  vertical-align: middle;
+  text-transform: uppercase;
+  font-size: 0.75em;
+  font-weight: 700;
+  text-align: center;
+  height: 100%;
+  height: var(--rdp-cell-size);
+  padding: 0;
+}
+
+.rdp-tbody {
+  border: 0;
+}
+
+.rdp-tfoot {
+  margin: 0.5em;
+}
+
+.rdp-cell {
+  width: var(--rdp-cell-size);
+  height: 100%;
+  height: var(--rdp-cell-size);
+  padding: 0;
+  text-align: center;
+}
+
+.rdp-weeknumber {
+  font-size: 0.75em;
+}
+
+.rdp-weeknumber,
+.rdp-day {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: var(--rdp-cell-size);
+  max-width: var(--rdp-cell-size);
+  height: var(--rdp-cell-size);
+  margin: 0;
+  border: 2px solid transparent;
+  border-radius: 100%;
+}
+
+.rdp-day_today:not(.rdp-day_outside) {
+  font-weight: bold;
+}
+
+.rdp-day_selected:not([disabled]),
+.rdp-day_selected:focus:not([disabled]),
+.rdp-day_selected:active:not([disabled]),
+.rdp-day_selected:hover:not([disabled]) {
+  color: white;
+  background-color: var(--rdp-accent-color);
+}
+
+.rdp-day_selected:focus:not([disabled]) {
+  border: var(--rdp-outline-selected);
+}
+
+.rdp:not([dir='rtl']) .rdp-day_range_start:not(.rdp-day_range_end) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.rdp:not([dir='rtl']) .rdp-day_range_end:not(.rdp-day_range_start) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.rdp[dir='rtl'] .rdp-day_range_start:not(.rdp-day_range_end) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.rdp[dir='rtl'] .rdp-day_range_end:not(.rdp-day_range_start) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.rdp-day_range_end.rdp-day_range_start {
+  border-radius: 100%;
+}
+
+.rdp-day_range_middle {
+  border-radius: 0;
+}
+</style><style>.hidden-sidebar .Sidebar__TodoListContainer {
+  display: none;
+}
+
+.hidden-sidebar .todo-list-header {
+  display: none;
+}
+
+.hidden-sidebar .to-do-list {
+  display: none;
+}
+
+body {
+  --tfc-dark-mode-text-primary: #e4e4e7;
+  --tfc-dark-mode-text-secondary: #71717a;
+  --tfc-dark-mode-bg-primary: #27272a;
+  --tfc-dark-mode-bg-primary-2: #3f3f46;
+  --tfc-dark-mode-bg-secondary: #52525b;
+}
+</style></head>
+
+  <body class="layout--splash">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="https://totallynotandre.github.io/projects/#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="https://totallynotandre.github.io/projects/#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="https://totallynotandre.github.io/projects/#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="https://totallynotandre.github.io/"><img src="./Projects - Andre’s Portfolio_files/zhiquong.png" alt="Andre&#39;s Portfolio"></a>
+        
+        <a class="site-title" href="https://totallynotandre.github.io/">
+          Andre's Portfolio
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="https://totallynotandre.github.io/projects/">Projects</a>
+            </li><li class="masthead__menu-item">
+              <a href="https://totallynotandre.github.io/assets/AndreSmith-resume.pdf">Resume</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button" count="0">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero--overlay" style=" background-image: url(&#39;/assets/face2.jpg&#39;);">
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          Projects
+
+        
+      </h1>
+      
+        <p class="page__lead">Experiences from my coding courses from UCI. <br>
+</p>
+      
+      
+
+
+      
+      
+    </div>
+  
+  
+</div>
+
+
+
+<div id="main" role="main">
+  <article class="splash" itemscope="" itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Projects">
+    <meta itemprop="description" content="Experiences from my coding courses from UCI. ">
+    
+    
+
+    <section class="page__content" itemprop="text">
+      <h2 id="animation-in-python">Animation in Python<a class="header-link" href="https://totallynotandre.github.io/projects/#animation-in-python" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h2>
+
+<!-- Courtesy of embedresponsively.com //-->
+
+<div class="responsive-video-container">
+    <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe src="./Projects - Andre’s Portfolio_files/7e16-8DLrlI.html" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" id="fitvid0"></iframe></div>
+  </div>
+
+<p>This project had me create a simulation within python that had objects all with different behaviors. This is project that heavily incorporated inheritance as some objects are similar due to them potentially being dependencies or parent object. There are objects I can choose from at the start, and if I were to click anywhere on the screen, the object will spawn and move in a random direction granted they can move. The window can also be adjusted to whatever size and the objects will still be contained and bounce off them.</p>
+
+<ul>
+  <li>The blue ball goes in a straight line and will bounce off walls.</li>
+  <li>The red ball will also bounce off walls but slowly turns as it moves forward.</li>
+  <li>The cyan ball will run away from either red balls or blue balls, but will not be destroyed by the black balls..</li>
+</ul>
+
+<p>Each black ball is a form of a hunter. They will destroy either blue or red balls on contact but will eventually become smaller and destroy itself if they can’t find food in time depending on which object it is.</p>
+
+<ul>
+  <li>The first black ball will stay stationary until forcibly removed by the user.</li>
+  <li>The second black ball will also stay stationary but will remove itself if it hasn’t consumed a prey in a certain amount of iterations.</li>
+  <li>The third and final black ball will actively move towards blue or red balls. If no consumable objects are available, they will move in a straight line until it remove itself due to “hunger”.</li>
+</ul>
+
+<h2 id="to-do-list-in-java">To Do List in Java<a class="header-link" href="https://totallynotandre.github.io/projects/#to-do-list-in-java" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h2>
+
+<!-- Courtesy of embedresponsively.com //-->
+
+<div class="responsive-video-container">
+    <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe src="./Projects - Andre’s Portfolio_files/gZfhYXpCrbo.html" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" id="fitvid1"></iframe></div>
+  </div>
+
+<p>This project required me to make a To-Do List in Java that allowed for deadlines and sorted each item by it’s priority and name lexicographically. You can mark individual items as done or outright delete them.</p>
+
+<h2 id="webflow-redesign-of-the-uci-informatic-website">Webflow redesign of the UCI Informatic website<a class="header-link" href="https://totallynotandre.github.io/projects/#webflow-redesign-of-the-uci-informatic-website" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h2>
+
+<!-- Courtesy of embedresponsively.com //-->
+
+<div class="responsive-video-container">
+    <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe src="./Projects - Andre’s Portfolio_files/C9crYim8-8U.html" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" id="fitvid2"></iframe></div>
+  </div>
+
+<p>This <a href="https://inf-131-p3-042124.webflow.io/">project</a> had me redesign parts of the UCI Informatics page from scratch to be easier to navigate and read. I rearranged the site to have information about Informatics at the top of the page compared to it being at the bottom. I also seperated the text hidden by images that required the user to hover over to see. While it does take up more room, it allows people to at least know there is text as some people may not notice that the images lead to new pages. The other page I redesigned was the B.S. Informatics page. The page has been reordered so that information such as requirements or qualifications are at the top before getting to the more specific details about the major. I also added a table of content that scrolls with the user so navigating the page would be even easier. On both pages, I redid the dropdown menu to look more in-line with the other UCI websites, to look nicer fancier in general, and reordered the categories so that undergraduate is before graduate. Undergraduate normally comes first in listing so the switch can help with reducing the odds of someone going to the wrong dropdown category.</p>
+
+<p>As I only had to design parts of the website, not all of the functions the site normally has works. The only option in the dropdown menu that works is the B.S. Informatics button as I needed a pathway to that page specifically. It was one of the two pages I decided to redesign, but I am confident in my ability to go back add more pages if I have more time. Links that do work will go to their respective page on the normal UCI Informatics site.</p>
+
+    </section>
+  </article>
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+      <li><a href="https://totallynotandre.github.io/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">© 2022 Andre's Portfolio. Powered by <a href="https://jekyllrb.com/" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="./Projects - Andre’s Portfolio_files/main.min.js.download"></script>
+
+
+
+
+
+
+
+
+
+
+  
+
+</body></html>
