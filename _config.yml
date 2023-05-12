@@ -38,19 +38,28 @@ plugins:
 minimal_mistakes_skin    : "dark"
 logo: "/assets/zhiquong.png"
 
+author:
+  name: "Andre Smith"
+  avatar: "/assets/me.jpg"
+  bio: "I am cool."
+  location: "Somewhere"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/porouscylinder5"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/totallynotandre"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/imtotallynotandre"
+
 include: 
   - _pages
 
 atom_feed:
   hide: true
 
-author:
-  name: "Andre Smith"
-  avatar: "/assets/me.jpg"
-  links:
-  - label: "Instagram"
-    icon: "fab fa-fw fa-instagram"
-    url: "https://www.instagram.com/imtotallynotandre/"
 
 defaults:
   # _pages
