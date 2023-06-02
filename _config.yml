@@ -33,10 +33,18 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-responsive-image
 
 
 minimal_mistakes_skin    : "dark"
 logo: "/assets/zhiquong.png"
+
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 300
+    - width: 400
+    - width: 500
 
 author:
   name: "Andre Smith"
