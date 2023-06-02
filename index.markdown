@@ -13,6 +13,17 @@ excerpt: >
   Informatics student currently attending UC Irvine. <br />
 
 
+gallery1:
+  - image_path: /assets/resize_me.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - image_path: /assets/pancake.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+gallery2:
+  - image_path: /me.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
 
 ## About Me
@@ -27,7 +38,7 @@ I only became interested in Informatics, UI/UX, and HCI within the last two year
 My desired career in the future is to work on UI/UX and Human-Computer Interaction at a company associated with video games. Despite this, I don't mind where I initially start my career as it will serve as a pathway to my goal at the end of the day.
 
 
-
+{% include gallery id="gallery1"%}
 
 
 ## Website's Purpose
