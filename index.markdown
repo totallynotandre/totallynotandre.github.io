@@ -20,7 +20,6 @@ gallery1:
   - image_path: /assets/pancake.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-gallery2:
   - url: /assets/me.jpg
     image_path: /assets/medbsm.jpg
     alt: "placeholder image 3"
