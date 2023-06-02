@@ -14,16 +14,18 @@ excerpt: >
 
 
 gallery1:
-  - image_path: /assets/resize_me.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - image_path: /assets/pancake.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+  - url: /assets/IMG_6223.jpg
+    image_path: /assets/resize_me.jpg
+    alt: "Me at AnimeExpo 2022"
+    title: "Me at AnimeExpo 2022"
+  - url: /assets/pancake.jpg 
+    image_path: /assets/pancake.jpg
+    alt: "Pancakes with a Friend"
+    title: "Pancakes with a Friend"
   - url: /assets/me.jpg
     image_path: /assets/medbsm.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Me with Doublelift at Worlds 2022"
+    title: "Me with Doublelift at Worlds 2022"
 ---
 
 ## About Me
