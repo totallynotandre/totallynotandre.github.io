@@ -18,7 +18,7 @@ excerpt: >
 
 ## About Me
 
-![responsive_image]({{ site.url }}{{ site.baseurl }}/assets/resize_me.jpg){: .align-right}
+![responsive_image]({{ site.url }}{{ site.baseurl }}/assets/resize_me.jpg "picture of me at AnimeExpo 2022"){: .align-right}
 My name is Andre Smith and I am currently working on getting a bachelor's degree in Informatics at University of California: Irvine. I've only been in the Irvine area for about a year as my first year at UCI was remote due to COVID so I never moved down. I moved to Costa Mesa which is near UCI for my second year and recently started my third year. Due to these years at UCI, I've had experiences with different coding languages and other tools that someone going down the Informatics field for UI/UX and website design would use.
 
 Before being an Informatics major, I was originally accepted into UCI as a software engineering major. I switched to Informatics as I was more interested in Human-Computer Interactions and UI/UX then outright backend coding. There is the added benefit of the two majors having a good amount of overlap between one another. A lot of the experiences I got from software engineering such as learning Java/Python can mesh with what I learned so far from Informatics especially if I were to make my own program or application. In Informatics so far, I've had experience using the likes of Figma, Webflow, and a bit of HTML. 
