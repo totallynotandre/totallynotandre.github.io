@@ -15,6 +15,7 @@ excerpt: >
 ## Animation in Python
 {% include video id="7e16-8DLrlI" provider="youtube" %}
 
+
 This project had me create a simulation within python that had objects all with different behaviors. This is project that heavily incorporated inheritance as some objects are similar due to them potentially being dependencies or parent object. There are objects I can choose from at the start, and if I were to click anywhere on the screen, the object will spawn and move in a random direction granted they can move. The window can also be adjusted to whatever size and the objects will still be contained and bounce off them.
 
 * The blue ball goes in a straight line and will bounce off walls.
@@ -30,10 +31,12 @@ Each black ball is a form of a hunter. They will destroy either blue or red ball
 ## To Do List in Java
 {% include video id="gZfhYXpCrbo" provider="youtube" %}
 
+
 This project required me to make a To-Do List in Java that allowed for deadlines and sorted each item by it's priority and name lexicographically. You can mark individual items as done or outright delete them. 
 
 ## Webflow redesign of the UCI Informatic website
 {% include video id="C9crYim8-8U" provider="youtube" %}
+
 
 This [project](https://inf-131-p3-042124.webflow.io/) had me redesign parts of the UCI Informatics page from scratch to be easier to navigate and read. I rearranged the site to have information about Informatics at the top of the page compared to it being at the bottom. I also seperated the text hidden by images that required the user to hover over to see. While it does take up more room, it allows people to at least know there is text as some people may not notice that the images lead to new pages. The other page I redesigned was the B.S. Informatics page. The page has been reordered so that information such as requirements or qualifications are at the top before getting to the more specific details about the major. I also added a table of content that scrolls with the user so navigating the page would be even easier. On both pages, I redid the dropdown menu to look more in-line with the other UCI websites, to look nicer fancier in general, and reordered the categories so that undergraduate is before graduate. Undergraduate normally comes first in listing so the switch can help with reducing the odds of someone going to the wrong dropdown category. 
 
