@@ -23,7 +23,7 @@ gallery1:
     alt: "Pancakes with a Friend"
     title: "Pancakes with a Friend"
   - url: /assets/me.jpg
-    image_path: /assets/medbsm.jpg
+    image_path: /assets/medbsmcut.jpg
     alt: "Me with Doublelift at Worlds 2022"
     title: "Me with Doublelift at Worlds 2022"
 ---
