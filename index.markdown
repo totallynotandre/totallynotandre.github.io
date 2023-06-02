@@ -21,7 +21,8 @@ gallery1:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 gallery2:
-  - image_path: /me.jpg
+  - url: /assets/me.jpg
+    image_path: /assets/medbsm.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
