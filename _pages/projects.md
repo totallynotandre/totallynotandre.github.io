@@ -42,6 +42,10 @@ gallery4:
     image_path: /assets/storyboard.jpg
     alt: "Storyboard"
     title: "Storyboard"
+  - url: /assets/sb2.jpg
+    image_path: /assets/sb2.jpg
+    alt: "Storyboard 2"
+    title: "Storyboard 2"
 gallery5:
   - url: /assets/figma.png
     image_path: /assets/figma.png
@@ -103,6 +107,8 @@ When it comes to analytics, we figured that showing graphs would be the most eff
 ### Persona
 
 {% include gallery id="gallery3"%}
+
+After the sketches, we went on to design personas to get a better understanding of what users would want from our apps. These personas helped us understand how a user would operate the app and ways it could help a specific subset of people. We can also see who can and cannot operate our app's UI and if we need any improvements to the UX.
 
 ### Storyboard
 
