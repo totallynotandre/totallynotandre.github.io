@@ -6,7 +6,48 @@ title: "Projects"
 header:
   overlay_image: /assets/face2.jpg
   
-  
+gallery2:
+  - url: /assets/S1.png
+    image_path: /assets/S1.png
+    alt: "Sketch 1"
+    title: "Sketch 1"
+  - url: /assets/S2.png
+    image_path: /assets/S2.png
+    alt: "Sketch 2"
+    title: "Sketch 2"
+  - url: /assets/S3.png
+    image_path: /assets/S3.png
+    alt: "Sketch 3"
+    title: "Sketch 3"
+  - url: /assets/S4.png
+    image_path: /assets/S4.png
+    alt: "Sketch 4"
+    title: "Sketch 4"
+gallery3:
+  - url: /assets/P1.png
+    image_path: /assets/P1.png
+    alt: "Persona 1"
+    title: "Persona 1"
+  - url: /assets/p2.png
+    image_path: /assets/p2.png
+    alt: "Persona 2"
+    title: "Persona 2"
+  - url: /assets/p3.png
+    image_path: /assets/p3.png
+    alt: "Persona 3"
+    title: "Persona 3"
+
+gallery4:
+  - url: /assets/storyboard.jpg
+    image_path: /assets/storyboard.jpg
+    alt: "Storyboard"
+    title: "Storyboard"
+gallery5:
+  - url: /assets/figma.jpg
+    image_path: /assets/figma.jpg
+    alt: "Prototype"
+    title: "Prototype"
+
 
 excerpt: >
   Experiences from my coding and informatics courses from UCI. <br />
@@ -44,8 +85,25 @@ As I only had to design parts of the website, not all of the functions the site 
 
 ## ZotWasteLess
 
-Hope this works
 
 ### Problem Statement
 
-Heheheha
+Yearly, one-third of all food produced globally is wasted? That means that an estimated 30-40% of the food supply in the US goes to waste each year which amounts to approximately 133 billion pounds (or 63 million tons) of food wasted. Food waste is a major environmental and economic problem. Team A++ and ZotWasteless is here to resolve this issue with user-friendly software for households and grocery stores, aiming to reduce waste and save money for the years to come. 
+
+### Sketches
+
+{% include gallery id="gallery2"%}
+
+### Persona
+
+{% include gallery id="gallery3"%}
+
+### Storyboard
+
+{% include gallery id="gallery4"%}
+
+### Prototype
+
+{% include gallery id="gallery5"%}
+
+
