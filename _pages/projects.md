@@ -43,8 +43,8 @@ gallery4:
     alt: "Storyboard"
     title: "Storyboard"
 gallery5:
-  - url: /assets/figma.jpg
-    image_path: /assets/figma.jpg
+  - url: /assets/figma.png
+    image_path: /assets/figma.png
     alt: "Prototype"
     title: "Prototype"
 
@@ -92,7 +92,13 @@ Yearly, one-third of all food produced globally is wasted? That means that an es
 
 ### Sketches
 
-{% include gallery id="gallery2"%}
+{% include gallery id="gallery2"% layout = "half"}
+
+The sketches shown display our desire to make our app as simple and user-friendly as possible. Proper food storage tips are front and center as well as our calender to help with setting reminders for food expiration dates being only a single button press away. 
+
+The inventory we planned to use is grid-based with images. Instead of a clutter of text, it would be easy to see and organize your own food supply. This will help with your own mental stack as you operate the app.
+
+When it comes to analytics, we figured that showing graphs would be the most effective way to show how much food is being saved in a way that is easy to understand. These graphs would show trends, how much you are saving, and could help the user find out where they can improve when preventing food waste.
 
 ### Persona
 
