@@ -46,6 +46,12 @@ gallery4:
     image_path: /assets/sb2.jpg
     alt: "Storyboard 2"
     title: "Storyboard 2"
+gallery5:
+  - url: /assets/figma.png
+    image_path: /assets/figma.png
+    alt: "Prototype"
+    title: "Prototype"
+
 
 excerpt: >
   Experiences from my coding and informatics courses from UCI. <br />
@@ -90,7 +96,7 @@ Yearly, one-third of all food produced globally is wasted? That means that an es
 
 ### Sketches
 
-{% include gallery id="gallery2"% layout = "half"}
+{% include gallery id="gallery2" layout = "half"%}
 
 The sketches shown display our desire to make our app as simple and user-friendly as possible. Proper food storage tips are front and center as well as our calender to help with setting reminders for food expiration dates being only a single button press away. 
 
@@ -110,6 +116,8 @@ After the sketches, we went on to design personas to get a better understanding 
 
 These two storyboards.
 
+### Prototype
 
+{% include gallery id="gallery5"%}
 
 
