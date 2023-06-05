@@ -114,7 +114,7 @@ After the sketches, we went on to design personas to get a better understanding 
 
 {% include gallery id="gallery4"%}
 
-These two storyboards.
+These two storyboards show our focus on making the food saving process as user friendly as possible. The storyboards show two different stories about who we cater this app to. The grocery store manager is able to easily manage his store's inventory and decide what should go on clearance to make sure that they can maximize profit. The other story is about an everyday person trying to properly store their groceries. With the help of ZotWasteLess, they were able to manage their own food with relative ease. The focus on both stories is that the process is seamless and not confusing.
 
 ### Prototype
 
