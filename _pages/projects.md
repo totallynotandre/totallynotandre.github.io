@@ -120,4 +120,4 @@ These two storyboards show our focus on making the food saving process as user f
 
 {% include gallery id="gallery5"%}
 
-
+This is our design made within [Figma](https://www.figma.com/file/Yuf9dI82xSo7cI5DVcfxGB/ZotWasteLess?type=design&node-id=0-1&t=Pf6VDGDmVLwOf4hD-0). Using the iPhone X through iPhone 13 designs as our models, a prototype with a log-in/sign-up page and all of the afformentioned features was created. All of the features from storage tips, analytics, inventory tracking, and expiration calender are all showcased clearly. The prototype is easy to understand with buttons at the bottom for navigation. 
