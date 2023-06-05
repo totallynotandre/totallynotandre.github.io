@@ -114,6 +114,8 @@ After the sketches, we went on to design personas to get a better understanding 
 
 {% include gallery id="gallery4"%}
 
+These two prototypes
+
 ### Prototype
 
 {% include gallery id="gallery5"%}
