@@ -46,12 +46,6 @@ gallery4:
     image_path: /assets/sb2.jpg
     alt: "Storyboard 2"
     title: "Storyboard 2"
-gallery5:
-  - url: /assets/figma.png
-    image_path: /assets/figma.png
-    alt: "Prototype"
-    title: "Prototype"
-
 
 excerpt: >
   Experiences from my coding and informatics courses from UCI. <br />
@@ -114,10 +108,8 @@ After the sketches, we went on to design personas to get a better understanding 
 
 {% include gallery id="gallery4"%}
 
-These two prototypes
+These two storyboards.
 
-### Prototype
 
-{% include gallery id="gallery5"%}
 
 
