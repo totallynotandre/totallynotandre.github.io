@@ -7,19 +7,19 @@ header:
   overlay_image: /assets/face2.jpg
   
 gallery2:
-  - url: /assets/S1.png
+  - url: /assets/S1s.png
     image_path: /assets/S1.png
     alt: "Sketch 1"
     title: "Sketch 1"
-  - url: /assets/S2.png
+  - url: /assets/S2s.png
     image_path: /assets/S2.png
     alt: "Sketch 2"
     title: "Sketch 2"
-  - url: /assets/S3.png
+  - url: /assets/S3s.png
     image_path: /assets/S3.png
     alt: "Sketch 3"
     title: "Sketch 3"
-  - url: /assets/S4.png
+  - url: /assets/S4s.png
     image_path: /assets/S4.png
     alt: "Sketch 4"
     title: "Sketch 4"
