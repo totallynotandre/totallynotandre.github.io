@@ -1,0 +1,206 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Dela+Gothic+One&display=swap');
+*{
+    box-sizing:border-box;
+    font-family: Comfortaa;
+    color: rgb(202, 202, 202);
+    background-color: rgb(37, 42, 52);
+    
+}
+
+
+
+html, body{
+    margin:0;
+    padding:0;
+}
+
+.headnav ul {
+    margin:0
+}
+
+.headnav li{
+    display:inline
+}
+
+.headnav a{
+    line-height: 45px;
+    display:inline;
+    text-align: center;
+    color: rgb(202, 202, 202);
+    
+}
+
+.headnav a:hover{
+
+    color: rgb(172, 101, 172);
+    
+}
+
+.main-head{
+    background-color: rgb(37, 42, 52);
+    
+    
+}
+
+
+.banner{
+    background-image: url("assets/EVO2.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px;
+
+    
+
+    
+}
+.banner h1{
+    position: absolute;
+
+    color: rgb(250, 250, 250);
+    text-align: center;
+    transform: translate(0%,100%);
+    font-weight: bold;
+    text-shadow: 2px 2px #000000;
+    background-color: rgba(37, 42, 52, 0);
+    
+}
+.banner h4{
+    position: absolute;
+
+    color: rgb(250, 250, 250);
+    text-align: center;
+    transform: translate(0%,400%);
+    font-weight: bold;
+    text-shadow: 2px 2px #000000;
+    background-color: rgba(37, 42, 52, 0);
+    
+}
+.bannerAM{
+    background-image: url("assets/jujuBachi.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px;
+
+    
+
+    
+}
+.bannerAM h1{
+    position: absolute;
+
+    color: rgb(250, 250, 250);
+    text-align: center;
+    transform: translate(0%,100%);
+    font-weight: bold;
+    text-shadow: 2px 2px #000000;
+    background-color: rgba(37, 42, 52, 0);
+    
+}
+.bannerAM h4{
+    position: absolute;
+
+    color: rgb(250, 250, 250);
+    text-align: center;
+    transform: translate(0%,400%);
+    font-weight: bold;
+    text-shadow: 2px 2px #000000;
+    background-color: rgba(37, 42, 52, 0);
+    
+}
+
+.bannerHB{
+    background-image: url("assets/aniSleep.png");
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px;
+
+    
+
+    
+}
+.bannerHB h1{
+    position: absolute;
+
+    color: rgb(250, 250, 250);
+    text-align: center;
+    transform: translate(0%,100%);
+    font-weight: bold;
+    text-shadow: 2px 2px #000000;
+    background-color: rgba(37, 42, 52, 0);
+    
+}
+.bannerHB h4{
+    position: absolute;
+
+    color: rgb(250, 250, 250);
+    text-align: center;
+    transform: translate(0%,400%);
+    font-weight: bold;
+    text-shadow: 2px 2px #000000;
+    background-color: rgba(37, 42, 52, 0);
+    
+}
+
+.bannerPF{
+    background-image: url("assets/dripGif.gif");
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px;
+
+    
+
+    
+}
+.bannerPF h1{
+    position: absolute;
+
+    color: rgb(250, 250, 250);
+    text-align: center;
+    transform: translate(0%,100%);
+    font-weight: bold;
+    text-shadow: 2px 2px #000000;
+    background-color: rgba(37, 42, 52, 0);
+    
+}
+.bannerPF h4{
+    position: absolute;
+
+    color: rgb(250, 250, 250);
+    text-align: center;
+    transform: translate(0%,400%);
+    font-weight: bold;
+    text-shadow: 2px 2px #000000;
+    background-color: rgba(37, 42, 52, 0);
+    
+}
+
+
+.main-bod{
+    background-color:rgb(37, 42, 52) ;
+    color: rgb(202, 202, 202);
+    font-size: large;
+}
+
+@media (max-width: 600px){
+    .banner h4{
+        display: none;
+    }
+    .bannerAM h4{
+        display: none;
+    }    
+    .bannerHB h4{
+        display: none;
+    }    
+}
+@media (max-width: 695px){
+    .bannerHB h4{
+        display: none;
+    }    
+}
+
+iframe { 
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 16 / 9;
+  }
